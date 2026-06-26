@@ -61,15 +61,15 @@ The dataset contains information about:
 
 ### Executive Dashboard
 
-![Executive Dashboard](dashboard-overview.png)
+![Executive Dashboard](dashboard-overview.png.png)
 
 ### Influencer Performance Analysis
 
-![Influencer Performance Analysis](influencer-analysis.png)
+![Influencer Performance Analysis](influencer-analysis.png.png)
 
 ### Audience & Campaign Insights
 
-![Audience & Campaign Insights](audience-insights.png)
+![Audience & Campaign Insights](audience-insights.png.png)
 
 ---
 
