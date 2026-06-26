@@ -59,17 +59,17 @@ The dataset contains information about:
 
 ## 📷 Dashboard Preview
 
-### Dashboard 1
+### Executive Dashboard
 
-![Dashboard 1](Screenshot%202026-06-26%20123236.png)
+![Executive Dashboard](dashboard-overview.png)
 
-### Dashboard 2
+### Influencer Performance Analysis
 
-![Dashboard 2](Screenshot%202026-06-26%20123355.png)
+![Influencer Performance Analysis](influencer-analysis.png)
 
-### Dashboard 3
+### Audience & Campaign Insights
 
-![Dashboard 3](Screenshot%202026-06-26%20123415.png)
+![Audience & Campaign Insights](audience-insights.png)
 
 ---
 
